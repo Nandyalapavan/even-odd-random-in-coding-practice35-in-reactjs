@@ -1,0 +1,39 @@
+/* Write your CSS here */
+
+.even-odd-app-container {
+  background-color: #ffffff;
+  height: 100vh;
+}
+.even-odd-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 70vh;
+  width: 400px;
+}
+.heading {
+  color: #0f172a;
+  font-size: 35px;
+  font-weight: bold;
+  padding-bottom: 20px;
+  font-family: 'Roboto';
+}
+.even-odd-inf {
+  color: #334155;
+  font-size: 20px;
+  padding-bottom: 10px;
+  font-family: 'Roboto';
+}
+.button {
+  background-color: #ffffff;
+  height: 30px;
+  width: 120px;
+  border-radius: 15px;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 7px;
+}
+.even-odd-random-inf {
+  color: #1e293b;
+  font-size: 20px;
+  padding-bottom: 10px;
+  font-family: 'Roboto';
+}
